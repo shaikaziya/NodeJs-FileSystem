@@ -1,0 +1,1 @@
+const quote = "Get busy living or get busy dying"
